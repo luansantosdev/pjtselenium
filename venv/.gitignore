@@ -1,5 +1,3 @@
-*.env
-*.requirements.txt
-*.cpf_codigo.xlsx
-*.credenciais_odonto.xlsx
-*.venv
+.env
+.cpf_codigo.xlsx
+.credenciais_odonto.xlsx
